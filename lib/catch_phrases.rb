@@ -14,8 +14,9 @@ def link
 end
 
 def any_phrase(phrase)
-  catch_phrase = "#{phrase}"
-  puts catch_phrase
+  #catch_phrase = "#{phrase}"
+  #puts catch_phrase
+  puts "#{phrase}"
 end
   
   
